@@ -15,4 +15,4 @@ optional arguments:
   -o OUT          path to output file
 ```
   
-![example output](https://github.com/nm2438/finger-user-enum-py/raw/master/example.png "Example Output")
+![example output](https://github.com/nm2438/finger-user-enum-py/raw/main/example.png "Example Output")
